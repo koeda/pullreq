@@ -1,3 +1,3 @@
-# pullreq
+# Hello, Pull Request
 
-PRテスト用のリポジトリです
+PRテスト用のリポジトリです。
